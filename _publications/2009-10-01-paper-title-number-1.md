@@ -4,7 +4,7 @@ collection: publications
 order: 5
 permalink: /publication/c-eval/
 excerpt: "Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*. Co-author."
-date: "2023"
+year: "2023"
 venue: "NeurIPS"
 ---
 

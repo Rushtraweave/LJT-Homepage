@@ -4,7 +4,7 @@ collection: publications
 order: 3
 permalink: /publication/on-the-universal-truthfulness-hyperplane-inside-llms/
 excerpt: "Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*. First author. GitHub code repository: `Universal_Truthfulness_Hyperplane`."
-date: "2024"
+year: "2024"
 venue: "EMNLP"
 ---
 

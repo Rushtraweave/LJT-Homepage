@@ -9,7 +9,7 @@ baseurl: "/LJT-Homepage"
 repository: "Rushtraweave/LJT-Homepage"
 
 author:
-  avatar: "profile.png"
+  avatar:
   name: "Junteng Liu"
   bio: "First-year PhD candidate in the HKUST NLP Group focusing on natural language processing and machine learning, with research on LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
   location:

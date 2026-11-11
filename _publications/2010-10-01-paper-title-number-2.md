@@ -4,7 +4,7 @@ collection: publications
 order: 4
 permalink: /publication/in-context-sharpness-as-alerts/
 excerpt: "Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*. Co-author."
-date: "2024"
+year: "2024"
 venue: "ICML"
 ---
 

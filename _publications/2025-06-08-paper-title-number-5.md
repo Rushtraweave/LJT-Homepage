@@ -4,7 +4,7 @@ collection: publications
 order: 1
 permalink: /publication/synlogic/
 excerpt: "Junteng Liu, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *Arxiv*, 2025. First author. GitHub code repository available."
-date: "2025"
+year: "2025"
 venue: "Arxiv"
 ---
 
