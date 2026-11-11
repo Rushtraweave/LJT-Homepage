@@ -13,5 +13,13 @@ author_profile: true
 
 {% assign publications = site.publications | sort: "order" %}
 {% for post in publications %}
-  {% include archive-single.html %}
+  <div class="list__item">
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      </h2>
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date }}</p>
+      <div class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</div>
+    </article>
+  </div>
 {% endfor %}
